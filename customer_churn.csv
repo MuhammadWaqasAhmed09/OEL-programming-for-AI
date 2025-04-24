@@ -1,0 +1,51 @@
+CustomerID,Name,Gender,Age,City,Tenure,MonthlyCharges,Churn,ContractType,TotalCharges
+CUST0001,Customer_1,Female,18,San Diego,1,59.34,Yes,Two year,
+CUST0002,Customer_2,Male,39,Phoenix,5,47.06,Yes,Two year,249.12
+CUST0003,Customer_3,Female,79,Chicago,67,36.89,No,One year,2503.39
+CUST0004,Customer_4,Male,67,Austin,52,114.79,No,One year,5977.13
+CUST0005,Customer_5,Male,52,Chicago,37,84.75,No,One year,
+CUST0006,Customer_6,Female,48,Houston,18,110.5,No,Month-to-Month,2033.69
+CUST0007,Customer_7,Female,59,Los Angeles,21,30.45,No,Month-to-Month,
+CUST0008,Customer_8,Female,79,Los Angeles,19,84.28,Yes,Two year,1624.1
+CUST0009,Customer_9,Female,59,San Diego,54,112.94,Yes,One year,6097.89
+CUST0010,Customer_10,Female,42,New York,50,41.27,Yes,Two year,2113.18
+CUST0011,Customer_11,Female,57,Dallas,34,87.51,Yes,One year,3001.18
+CUST0012,Customer_12,Female,59,Houston,31,51.57,Yes,Month-to-Month,1612.11
+CUST0013,Customer_13,Female,57,Dallas,42,80.46,No,Month-to-Month,3426.79
+CUST0014,Customer_14,Female,22,Phoenix,16,43.5,Yes,Month-to-Month,717.73
+CUST0015,Customer_15,Male,46,San Jose,36,36.98,Yes,Two year,1311.18
+CUST0016,Customer_16,Female,61,Phoenix,49,64.35,No,Month-to-Month,3179.05
+CUST0017,Customer_17,Male,73,San Diego,17,25.55,No,Month-to-Month,465.39
+CUST0018,Customer_18,Male,28,Chicago,58,55.43,No,Two year,3260.62
+CUST0019,Customer_19,Male,53,Philadelphia,22,22.76,No,Month-to-Month,465.07
+CUST0020,Customer_20,Female,25,Chicago,6,75.34,Yes,Month-to-Month,474.56
+CUST0021,Customer_21,Male,19,Phoenix,19,43.12,Yes,Month-to-Month,829.34
+CUST0022,Customer_22,Male,52,Chicago,35,49.49,No,Two year,1758.47
+CUST0023,Customer_23,Female,77,Los Angeles,38,102.47,No,One year,3918.44
+CUST0024,Customer_24,Female,24,Phoenix,25,22.25,No,One year,559.77
+CUST0025,Customer_25,Female,77,Phoenix,13,56.27,Yes,Month-to-Month,707.45
+CUST0026,Customer_26,Female,23,San Jose,44,58.92,No,Two year,2559.38
+CUST0027,Customer_27,Female,35,Chicago,71,27.7,Yes,Month-to-Month,1918.97
+CUST0028,Customer_28,Male,41,Dallas,67,93.71,Yes,Two year,6251.63
+CUST0029,Customer_29,Female,49,Philadelphia,17,91.12,No,One year,1572.49
+CUST0030,Customer_30,Female,66,Austin,36,98.69,No,Month-to-Month,3533.53
+CUST0031,Customer_31,Female,35,Chicago,12,24.5,Yes,One year,330.92
+CUST0032,Customer_32,Male,46,San Diego,51,65.45,Yes,Month-to-Month,3379.7
+CUST0033,Customer_33,Male,71,Philadelphia,46,31.05,Yes,Month-to-Month,
+CUST0034,Customer_34,Male,27,Philadelphia,6,106.31,No,Two year,605.53
+CUST0035,Customer_35,Female,49,Los Angeles,5,62.22,Yes,Two year,357.37
+CUST0036,Customer_36,Male,24,Dallas,24,105.3,Yes,One year,2515.58
+CUST0037,Customer_37,Female,40,San Jose,13,25.41,No,Two year,
+CUST0038,Customer_38,Female,53,Dallas,29,84.07,No,Two year,
+CUST0039,Customer_39,Female,38,San Diego,6,60.43,Yes,One year,381.79
+CUST0040,Customer_40,Female,59,Houston,35,93.45,Yes,One year,3289.43
+CUST0041,Customer_41,Female,45,Houston,40,80.44,Yes,Two year,3222.11
+CUST0042,Customer_42,Female,39,San Diego,40,40.55,No,Month-to-Month,1661.19
+CUST0043,Customer_43,Female,36,New York,39,119.81,Yes,Month-to-Month,4636.0
+CUST0044,Customer_44,Male,80,Chicago,51,105.76,Yes,Two year,5349.32
+CUST0045,Customer_45,Female,55,San Diego,20,25.3,No,Month-to-Month,554.77
+CUST0046,Customer_46,Female,54,New York,28,53.11,No,One year,1508.32
+CUST0047,Customer_47,Female,67,Chicago,10,96.0,No,Month-to-Month,975.1
+CUST0048,Customer_48,Male,31,Houston,40,115.78,No,Two year,4626.5
+CUST0049,Customer_49,Female,46,Dallas,24,86.28,No,One year,2053.95
+CUST0050,Customer_50,Female,37,New York,21,33.11,No,Month-to-Month,732.08
